@@ -7,7 +7,6 @@ app.use(cors());
 app.use(express.json());
 
 // Connect to MongoDB
-const mongoose = require("mongoose");
 
 mongoose.connect("mongodb+srv://admin:96PRJbcdhlMvOTT1@cs05.f73i7rp.mongodb.net/courseVoting?retryWrites=true&w=majority&appName=Cs05", {
     useNewUrlParser: true,
