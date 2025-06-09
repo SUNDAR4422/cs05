@@ -92,7 +92,8 @@ const validRegisterNumbers = [
          "710023104709", 
          "710023104704", 
          "710023104705", 
-         "710023104706"
+         "710023104706",
+        "710023104000"
 ];
 
 // Initialize courses in the database
